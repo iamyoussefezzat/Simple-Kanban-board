@@ -35,7 +35,7 @@ It’s designed to be lightweight and dependency-free — everything runs right 
 - **JavaScript (ES6)** – logic and interactions  
 - **Local Storage API** – data persistence  
 
----
+
 
 📁 File Structure (Example)
 ├── index.html         # Main HTML file
@@ -44,7 +44,9 @@ It’s designed to be lightweight and dependency-free — everything runs right 
 ├── assets/            # (optional) images or icons
 │   └── Kanban.png
 └── README.md          # This documentation
----
+
+
+
 
 🧑‍💻 Author
 
