@@ -37,16 +37,13 @@ It’s designed to be lightweight and dependency-free — everything runs right 
 
 
 
-📁 File Structure (Example)
+📁 File Structure 
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS styling for calculator UI
 ├── script.js          # JavaScript logic for operations
 ├── assets/            # (optional) images or icons
 │   └── Kanban.png
 └── README.md          # This documentation
-
-
-
 
 🧑‍💻 Author
 
