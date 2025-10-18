@@ -37,8 +37,7 @@ It’s designed to be lightweight and dependency-free — everything runs right 
 
 ---
 
-Simple-Kanban-board/
-│
+📁 File Structure :
 ├── index.html       # Main page
 ├── style.css        # Styling and layout
 ├── main.js        # Core logic
@@ -50,4 +49,4 @@ Simple-Kanban-board/
 
 [Youssef M.Ezzat](https://github.com/iamyoussefezzat/)
 
-                                                                  ⭐ If you like this project, consider giving it a star! ⭐
+ ⭐ If you like this project, consider giving it a star! ⭐
